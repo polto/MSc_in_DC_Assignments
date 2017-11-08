@@ -1,15 +1,16 @@
 Olanto Foundation Token
+=======================
 A novel ICO methodology to finance Free Software development.
 (demonstrated on Olanto Foundation Token)
 Alexandre Poltorak alexandre@olanto.org, Monday 7th November 2017 https://github.com/polto/Msc_in_DC_Assignments/tree/master/DFIN-513/Olanto-Foundation-Tokens.md
 
 
-Abstract
+# Abstract
 
 I would like to propose a new model of ICO targeting fund raising for Free Software communities developing solutions for decentralization.  In this model ICO participants do not buy the token, but rather lend us their Ethers for minimal period of 3 years. While not spending any of the borrowed  Ethers, we use them to provide services to the underlying Ethereum infrastructure and using the annuities to fund new developments.  The tokens distributed in exchange  of borrowed Ethers may be viewed as the main token, and holders of this token will be rewarded with large majority of new application-tokens developed under this funding.
 
 
-Introduction
+# Introduction
 
 Most of the ICOs today are targeting to collect maximum amount of money. Most of them under-perform compared to the native token of the underlying blockchain used during the ICO.  So in most cases participants would have a better financial situation by not participating and keeping their funds in the native token. (ie Ethers)
 
@@ -26,7 +27,7 @@ For the sake of this paper Olanto Foundation1 will be used as an example of a su
 So let's discuss OFT - Olanto Foundation Token to finance Free Software development in the area of CAT (Computer Assisted Translation), MT (Machine Translation), text indexing & searching and all kind of natural language processing tools.
 
 
-Motivation
+# Motivation
 
 Being co-founder and volunteering as member of the board for Olanto Foundation (Open Language Tools) for more then 5 years I think an ICO will hugely help to finance more rapid development of the Foundation's Free Software tools, but I am really uncomfortable with most of the ICO models I have observed so far.  Most of them heavily under-perform compared to Ethereum or Bitcoin. Why would one spend his ETH/BTC to invest in a such ICO ? They also tent to create money out of fin air causing inflation in crypto-currency space. The resulting app-token is often
 over-valued as it's price is first set artificially during the ICO.
@@ -35,7 +36,7 @@ Ethereum founder Vitalik Buterin says about ICOs: "A lot of projects will fail a
 
 I am utterly choked by the number of ICOs turning into Fraud as a Service (FaaS). This is what pushed me to develop a more sustainable ICO model.
 
-Current ICO landscape
+# Current ICO landscape
 
 Unprecedented market capitalisation success of Bitcoin & Ethereum made many traditional players absolutely thriving to repeat such success and make even more money with new coins. This crowd of actors do not stimulate innovations & technical solutions, moreover, they do not understand decentralized platforms and therefore many of new token are stillborn. The biggest effect they make is to warming up investors and making crypro-currency market even more speculative. As a result it leads to hysterical investments trying to repeat Bitcoin & Ethereum success by technically non-qualified investors. 
 
@@ -59,7 +60,7 @@ In this landscape, there are four different groups of investors:
 
 So rare successes, many loses and not so much new developments in term of decentralization.
 
-Contributions
+# Contributions
 
 We are proposing a new model where people do not spend, but only lend for a minimum 3 years period. 
 
@@ -69,7 +70,7 @@ I believe our ICO approach will introduce several innovations in the landscape:
 2) we finance our developments by providing services to the underlying Ethereum blockchain infrastructure and community. We leverage on the time value of money.3 
 3) the app-tokens consequent to our development will distributed in large majority to OFT token owners thus starting with a purely market valuation and not some pre-fabricated price. Starting at zero price and leaving the free market decide the price.
 
-Implementation
+# Implementation
 
 We provide a Time Lock for invested Ethers, to ensure that their funds are solely used for blockchain infrastructure services. We then reward these investors with the new app-tokens from Olanto developped projects.
 
@@ -86,11 +87,13 @@ Banks where used to pool money and to provide this investment pools to valuable 
 
 On the other side banks start to play with crypto and our OFT token sound like an interesting proposal with extremely limited risks.
 
-OFT
+# OFT
+
 Olanto Foundation Coin Offering will be implemented as ERC20/ERC23 compatible smart-contract. The token will be introduced during one
 year period in exchange of lending us Ethers for a minimal period of 3 years. We will potentially accept other solid digital assets 
 
-Return on Investment
+# Return on Investment
+
 We target a very conservative 2% RoI to finance our development.  While OFT holder's RoI will be a full ETH reimbursement and all developed app-tokens as bonus.
 
 Dash' Master Nodes PoS currently show ~10% annual return in the internal dash currency for running a Master Node and staking dash thus insuring services and security for the the underlying blockchain. 
@@ -103,7 +106,7 @@ Moreover the OFT token itself can be traded on the decentralized markets.
 
 It is difficult to tell what would be the valuation of Foundation's app-tokens, but since we airdrop them to OFT token holders absolutely for free - they will benefit from a totally free market valuation.  It seems to me a more simple and natural approach to the token valuation problems expressed by the community.4,6 
 
-Legal framework
+# Legal framework
 
 I am not a lawyer and all of above proposed should be discussed with a group of lawyers in a local jurisdiction, nevertheless the general idea is that the borrowed money should not be considered as owned by Olanto Foundation capital.
 
@@ -112,11 +115,11 @@ Ideally the capital should be owned by a DAO or a simpler form of smart contract
 Issued app-tokens are not sold, but airdroped for holding OFT tokens. It will be interesting to see how this will be considered in the current and future law.
 
 
-Limitations and Benefits
+# Limitations and Benefits
 
 Any approach have it's own limitations and benefits. Let's try honestly discuss both in this section.
 
-Limitations
+## Limitations
 
 This is not a 0% risk as we would all love to have. We will try to minimise the risks by working with concerned development communities.
 
@@ -124,7 +127,7 @@ PoS is not yet implemented in Ethereum, nobody know how smooth will this migrati
 
 We have to carefully evaluate what gains can be currently generated using such technique. 
 
-Benefits
+## Benefits
 
 The proposed model of ICO is less risky than any traditional ICO in term of capital preservation.
 
@@ -135,11 +138,11 @@ Our ICO model provides a free market based valuation for our app-tokens.
 The borrowed Ethers are not completely locked out economy, they are used to provide more liquidity on the market by putting them at use for PoS and second layer transactions.
 
 
-Conclusions
+# Conclusions
 
 We propose a different approach to finance Free Software projects, where we want to use ETH received from OFT sales for continuous return on investment using PoS mining and gain a steady return on investment.  Low-risk profits from PoS systems (lighting network, tendermint, casper, ...), will allow us to fund development of Olanto software and bring value to OFT holders by giving them new Olanto project app-tokens as they come, for free. 
 
-Future work
+## Future work
 
 While this paper describes a general idea, we now need to work on actual implementation. 
 Smart contracts have to be developed.
@@ -147,10 +150,11 @@ Smart contracts have to be developed.
 As soon as a stable DAO capable of providing PoS style services and thus capitalizing on the provided services will be possible we are willing to switch to this kind of total decentralization.
 
 
-Acknowledgements
+## Acknowledgements
+
 I would thank my blockchain supportive mother and Dr. Jacques Guyot – president of Olanto Foundation for frequent & fruitful discussions on ICOs, token-apps and decentralization. Also, I would like to thank professors and participants of the MOOC8 and the MSc9 in Digital Currenecies of the University of Nicosia for the passionate discussions during the courses.  
 
-References
+## References
 
 [1] http://olanto.org/ 
 Olanto Foundation web site
